@@ -1,0 +1,27 @@
+.title{
+    color: blue;
+   display:inline-flex
+    
+}
+ .b{
+    text-align: right ;
+    
+ }
+ .right{
+    display: inherit;
+    color: blue;
+    padding-left: 1000px;
+ }
+ .lorem{
+    text-align: right;
+ }
+ .resume{
+    margin:  100px;
+   background-color: aliceblue;
+ }
+ body{
+    background-color: rgb(240, 234, 234);
+    display: inline;
+ }
+ 
+ 
