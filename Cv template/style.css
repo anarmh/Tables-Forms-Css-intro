@@ -1,27 +1,39 @@
-.title{
-    color: blue;
-   display:inline-flex
-    
-}
- .b{
-    text-align: right ;
-    
- }
- .right{
-    display: inherit;
-    color: blue;
-    padding-left: 1000px;
- }
- .lorem{
-    text-align: right;
- }
+
+ 
  .resume{
-    margin:  100px;
-   background-color: aliceblue;
+    margin-left:  100px;
+    margin-right: 100px;
+    
+   background-color:white ;
+   padding-left:  100px;
+   padding-right: 100px;
+   padding-top: 20px;
+   padding-bottom: 10px;
  }
  body{
     background-color: rgb(240, 234, 234);
     display: inline;
+    
+ }
+ .title{
+   display: flex;
+   justify-content: space-between;
+   padding-left: 40px;
+   padding-right: 30px;
+ }
+ .title-child2 .list1{
+    list-style-type:  none;
  }
  
- 
+h5{
+   color: rgb(127, 150, 255);
+}
+
+.container{
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+}
+.container ul{
+   list-style-type: none;
+}
